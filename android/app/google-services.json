@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241558352927",
+    "project_id": "massagemeapp-de80f",
+    "storage_bucket": "massagemeapp-de80f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241558352927:android:ba0b8d38bf9900c186512a",
+        "android_client_info": {
+          "package_name": "com.example.massenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241558352927-v21cadfulg6t5dofs8mm1tcjvs0hts6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.massenger_app",
+            "certificate_hash": "fdfeb9ea872d3600fe2c6966773e7f94cf9e34d4"
+          }
+        },
+        {
+          "client_id": "241558352927-7tfb4j5sk62lain6tob08sk4ff0rkpeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeL_0tcHM-oYN3-mUjhOonh7eYhhWVv7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241558352927-7tfb4j5sk62lain6tob08sk4ff0rkpeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
